@@ -7,8 +7,21 @@ body {
   min-height: 100vh;
 }
 
+.height-80 {
+  min-height: 80vh;
+}
+
 .title-underline {
   width: 120px;
   height: 5px;
   margin: 0 auto;
+}
+
+.about-picture {
+  background: url("http://blazrobar.com/wp-content/uploads/2015/05/Free-places-to-download-stock-photos.jpg")
+    center/cover no-repeat fixed;
+  /* background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
 }
