@@ -6,3 +6,9 @@ body {
 .height {
   min-height: 100vh;
 }
+
+.title-underline {
+  width: 120px;
+  height: 5px;
+  margin: 0 auto;
+}
