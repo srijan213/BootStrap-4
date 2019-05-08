@@ -18,9 +18,11 @@ body {
 }
 
 .about-picture {
-  background: url("https://image.redbull.com/rbcom/010/2017-03-24/1331850779523_2/0010/1/1050/700/1/test-your-dota-2-knowledge.jpg")
+  background: url("https://images.pexels.com/photos/1509428/pexels-photo-1509428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
     center/cover no-repeat fixed;
-  /* background-size: cover;
+  /* 
+  -- parallax effect --
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed; */
